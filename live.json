@@ -43,7 +43,7 @@
   {
     "kaynak": "m3u8",
     "name": "Ptrn",
-    "url": "http://87.121.104.29:1855/patronyt.m3u"
+    "url": "http://87.121.104.29:1796/patronyt.m3u"
   },
   {
     "kaynak": "m3u8",
@@ -82,8 +82,8 @@
   },
   {
     "kaynak": "m3u8",
-    "name": "bORUtV",
-    "url": "https://yayinda.atakan1983-borutv.workers.dev/?file=kablotv.m3u"
+    "name": "legal kanallar",
+    "url": "https://streams.uzunmuhalefet.com/lists/tr.m3u"
   },
   {
     "kaynak": "m3u8",
