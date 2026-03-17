@@ -23,7 +23,7 @@
     "url": "https://gecekod.github.io/vivii/playlists/vavoo_Turkey.m3u8",
     "referer": "https://vavoo.to/",
     "origin": "https://vavoo.to",
-    "user-agent": "vavoo/2.6"
+    "user-agent": "okhttp/4.9.0"
   },
   {
     "kaynak": "m3u8",
