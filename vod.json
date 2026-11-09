@@ -6,26 +6,6 @@
   },
   {
     "kaynak": "m3u8",
-    "name": "FilmModu",
-    "url": "https://raw.githubusercontent.com/patr0nq/flmS/refs/heads/main/filmmodu_tum.m3u"
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "FilmMakinesi",
-    "url": "https://raw.githubusercontent.com/patr0nq/flmS/refs/heads/main/filmmakinesi_tum.m3u"
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "FulHDFilm",
-    "url": "https://raw.githubusercontent.com/patr0nq/flmS/refs/heads/main/fhdfi_tum.m3u"
-  },
-  {
-    "kaynak": "m3u8",
-    "name": "FanatikFilm",
-    "url": "https://cdn.jsdelivr.net/gh/Playtvapp/Playtvlist@main/F%C4%B0LMLERFANT%C4%B0KAPPP.m3u"
-  },
-  {
-    "kaynak": "m3u8",
     "name": "izlego18",
     "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/izlego18.m3u"
   }
