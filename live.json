@@ -10,15 +10,15 @@
     "kaynak": "m3u8",
     "name": "İBB Trafik Kameraları",
     "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/ibb_cams.m3u",
-    "poster": "",
-    "description": ""
+    "poster": "https://toppng.com/uploads/preview/istanbul-buyuksehir-belediyesi-vector-logo-11574104504ysmmjcafij.png",
+    "description": "İBB Trafik Kameraları By MG"
   },
   {
     "kaynak": "m3u8",
     "name": "istanbul Tursitik Kameralar",
     "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/webcamyt.m3u",
     "poster": "https://apk.mehmet1903.com.tr/turistikkameralar.png",
-    "description": "İstanbul Turistik Kameralar"
+    "description": "İstanbul Turistik Kameralar By MG"
   },
   {
     "kaynak": "m3u8",
