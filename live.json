@@ -1,44 +1,58 @@
 [
-    {
+  {
     "kaynak": "m3u8",
     "name": "KralTürk",
-    "url": "https://raw.githubusercontent.com/Kral-Turk/Kral-Turk-TV/refs/heads/main/TURK_TV.m3u_plus"
+    "url": "https://raw.githubusercontent.com/Kral-Turk/Kral-Turk-TV/refs/heads/main/TURK_TV.m3u_plus",
+    "poster": "",
+    "description": ""
   },
   {
     "kaynak": "m3u8",
     "name": "İBB Trafik Kameraları",
-    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/ibb_cams.m3u"
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/ibb_cams.m3u",
+    "poster": "",
+    "description": ""
   },
   {
     "kaynak": "m3u8",
     "name": "istanbul Tursitik Kameralar",
-    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/webcamyt.m3u"
-    "poster": "https://apk.mehmet1903.com.tr/turistikkameralar.png"
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/webcamyt.m3u",
+    "poster": "https://apk.mehmet1903.com.tr/turistikkameralar.png",
+    "description": "İstanbul Turistik Kameralar"
   },
   {
     "kaynak": "m3u8",
     "name": "İzlego18",
-    "url": "https://m3u.work/utYsYgD.m3u"
+    "url": "https://m3u.work/utYsYgD.m3u",
+    "poster": "",
+    "description": ""
   },
   {
     "kaynak": "m3u8",
     "name": "18+++",
-    "url": "https://tinyurl.com/mggi18"
+    "url": "https://tinyurl.com/mggi18",
+    "poster": "",
+    "description": ""
   },
   {
     "kaynak": "m3u8",
     "name": "legal kanallar",
-    "url": "https://streams.uzunmuhalefet.com/lists/tr.m3u"
+    "url": "https://streams.uzunmuhalefet.com/lists/tr.m3u",
+    "poster": "",
+    "description": ""
   },
   {
     "kaynak": "m3u8",
     "name": "World Webcam",
-    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/world_webcam.m3u"
+    "url": "https://raw.githubusercontent.com/PRoDi79/Deneme/refs/heads/main/world_webcam.m3u",
+    "poster": "",
+    "description": ""
   },
   {
     "kaynak": "m3u8",
     "name": "Oha.to_Turkey_Kargo1975",
     "url": "https://tinyurl.com/Rokkr-Tr-Oha",
+    "poster": "",
     "user-agent": "libmpv",
     "description": "Türkiye genelinde Ulusal kanalları, Spor, Belgesel ve Bir çok ülke kanalını içeren izleyici listesidir. Yayınlar Oha.to sitesi tarafından yayınlanmakyadır. İllegal yayınlar olabilir, kullanıcı sorumluluğundadır.Liste sahibi Kargo1975'e teşekkürler."
   }
