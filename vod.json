@@ -9,13 +9,6 @@
   },
   {
     "kaynak": "m3u8",
-    "name": "92xx Film",
-    "url": "https://raw.githubusercontent.com/GitLatte/patr0n/refs/heads/site/lists/power-sinema.m3u",
-    "description": "92xx Film",
-    "poster": "https://apk.mehmet1903.com.tr/sinema.png"
-  },
-  {
-    "kaynak": "m3u8",
     "name": "JetFilm",
     "url": "https://raw.githubusercontent.com/patr0nq/flmS/refs/heads/main/jetfilm_tum.m3u",
     "description": "Jet Film izle",
